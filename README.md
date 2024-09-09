@@ -1,9 +1,10 @@
-![image](https://github.com/user-attachments/assets/e08f32a9-0e25-4359-8f35-28ba105e777f)# DCP-MTL
+# DCP-MTL
 DCP-MTL: Vectorization of Agricultural Cultivation Field Parcels via Boundary-Parcel Multi-Task Learning Network in Ultra-High-Resolution Remote Sensing Images
 
 The code will be available soon.
 
-![image](https://github.com/user-attachments/assets/76ccaee5-5ebe-4205-91c4-308a34f56153)
+![image](https://github.com/user-attachments/assets/dd5a20b3-71b3-4639-b07a-26c724e69010)
+
 
 
 # Dataset

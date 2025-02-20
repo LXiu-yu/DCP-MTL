@@ -11,24 +11,24 @@ The code will be available soon.
 The dataset we have hosted to zenodo for release, more details about the dataset will be announced as soon as the paper is published!(https://zenodo.org/records/13734698)
 This paper introduces the first UHR UAV dataset specifically for CFP, designed to evaluate the performance of the proposed model in identifying these parcels. The dataset offers ultra-high spatial resolution, various field parcel types, and broad geographic coverage.
 
-Introduction to Data Organization and Data Sets.
-------dataset-------
-----train
-  ----images
-    ----tile_20_0_0.tif
-  ----masks
-    ----tile_20_0_0.tif  
-  ----edge
-    ----tile_20_0_0.tif
-  ----distance
-    ----tile_20_0_0.tif
+Introduction to Data Organization and Data Sets.   
+------dataset-------  
+----train  
+  ------images  
+    --------tile_20_0_0.tif  
+  ------masks  
+    --------tile_20_0_0.tif  
+  ------edge  
+    --------tile_20_0_0.tif  
+  ------distance  
+    --------tile_20_0_0.tif  
 
-----test
-  ----images
-    ----tile_20_0_0.tif
-  ----masks
-    ----tile_20_0_0.tif  
-  ----edge
-    ----tile_20_0_0.tif
-  ----distance
-    ----tile_20_0_0.tif
+----test  
+  ------images  
+    --------tile_20_0_0.tif  
+  ------masks  
+    --------tile_20_0_0.tif  
+  ------edge  
+    --------tile_20_0_0.tif  
+  ------distance  
+    --------tile_20_0_0.tif  
